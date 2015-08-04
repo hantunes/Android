@@ -1,0 +1,21 @@
+http://developer.android.com
+http://stackoverflow.com/questions/tagged/android
+http://www.meetup.com/DC-Droidss
+https://groups.google.com/group/android-developers
+http://android-developers.blogspot.com
+
+
+telnet localhost 5554 
+
+network speed edge
+network speed full
+power capacity 10
+power status not-charging
+geo fix -77.06 38.897  // change location for GPS
+sms send 239438556 "test messagen hugo"
+to call to other emulator android dial the number of the port (5554)
+
+
+
+
+
