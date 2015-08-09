@@ -9,6 +9,7 @@ sudo apt-get install oracle-java8-set-default
 
 -----------Android Studio----------
 sudo apt-get install lib32stdc++6
+sudo apt-get install libstdc++6:i386 zlib1g:i386
 ----
 sudo apt-add-repository ppa:paolorotolo/android-studio
 sudo apt-get update
