@@ -1,5 +1,5 @@
 Classicmenu indicator
-s
+hs
 
 !!!!!-----Python-----!!!!
   *Location --> /home/administrator/Python-3.4.1
