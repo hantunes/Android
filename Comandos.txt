@@ -15,33 +15,12 @@ sudo apt-get update
 sudo apt-get install android-studio
 
  ------------Smart Git ------------
-
-To add the PPA run:
-
 sudo add-apt-repository ppa:eugenesan/ppa
 sudo apt-get update
-
 To install smartgit (after adding the PPA) run:
-
 sudo apt-get install smartgit
-
 To install smartgithg (after adding the PPA) run:
-
 sudo apt-get install smartgithg
-
-This should add a menu option for you
-
- ------------Drives Placa grafica ------------
-
-Open a terminal and enter this command:
-
-sudo add-apt-repository ppa:ubuntu-x-swat/x-updates
-sudo apt-get update
-sudo apt-get install nvidia-current
-
-Reboot your system and you're done
- ------------Classicmenu indicator ------------
-
 
 !!!!!-----Python-----!!!!
   *Location --> /home/administrator/Python-3.4.1
