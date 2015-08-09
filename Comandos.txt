@@ -1,4 +1,6 @@
 -----------Android Studio----------
+sudo apt-get install lib32stdc++6
+----
 sudo apt-add-repository ppa:paolorotolo/android-studio
 sudo apt-get update
 sudo apt-get install android-studio
